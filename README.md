@@ -1,5 +1,5 @@
 # Tableau Analysis Overview
-
+Alternative gallery is available on https://public.tableau.com/app/profile/lisong.he/vizzes
 ## Project Description
 
 This repository contains a detailed tableau analysis focused on various socioeconomic indicators across the U.S. from 2014 to 2019. The data explores average starting salaries, cost of living, educational attainment, and employment rates. The project highlights how these factors interplay to influence living standards and economic opportunities.
